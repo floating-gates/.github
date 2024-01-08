@@ -8,7 +8,7 @@ To support the project, we provide simulation services enhanced by a data crunch
 
 👩‍💻 Useful resources 
 
-In this repo you can find our guide and cheatbook about Computational Fluid Dynamics, Machine Learning and cloud computing. So we are all in thesame page.
+In this repo you can find our guide and cheat-book about Computational Fluid Dynamics and cloud computing.
 
 <!--
 
