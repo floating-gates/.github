@@ -1,20 +1,28 @@
-## Hi there Adige is here 👋
+# Floating Gates 🛠️🚀  
 
-🙋‍♀️ What is Adige?
+*Software-Driven Manufacturing Excellence*
 
-A team of engineers dedicated at the development of 3D topology optimization simulations to enable the next generation of computational design. 
+## About Us
 
+We are group of software enthusiasts committed to collaborate with the manufacturing industry. 
+From real-time analytics to simulation, we build tools that empower manufacturers to do more with less.
 
-👩‍💻 Useful resources 
+## What We Do
 
-In this repo you can find our guide and cheat-book about Computational Fluid Dynamics and cloud computing.
+We design and develop software solutions that:
 
-<!--
+- 🌐 **Integrate** with existing machinery and systems seamlessly  
+- 🧪 **Simulate** and optimize workflows before they hit the floor  
+- 🛠️ **Customize** tools tailored to specific manufacturing needs
 
-🌈 Contribution guidelines - how can the community get involved?
+Whether it's bridging legacy hardware with modern software, or building AI-powered systems for predictive 
+maintenance, we turn complexity into clarity.
 
+## Join Us or Collaborate
+Let's build the future of factories together.
 
-🍿 Fun facts - what does your team eat for breakfast?
+📧 **Contact us** at [contact@floating-gates.com](mailto:contact@floating-gates.com)  
 
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+*Floating Gates – Software-Driven Manufacturing Excellence*
