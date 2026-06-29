@@ -1,4 +1,4 @@
-## Gates: Autonomous detection of Design Errors for Manufacturing and Future Manitenance
+# Autonomous Detection of Design Errors for Manufacturing and Future Manitenance
 
 Floating Gates produces Software for Automated Error Detection in Mechanical Design that works on Factory Networks.
 
