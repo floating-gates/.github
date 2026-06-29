@@ -1,32 +1,32 @@
-**Floating Gates** is a virtual manufacturing hub designed to connect manufacturers and customers seamlessly.  
-We provide **automatic feasibility checks, automatic quotations, and optimization workflows** that reduce overhead for manufacturers and make production more efficient. 
+## Gates: Autonomous detection of Design Errors for Manufacturing and Future Manitenance
 
-Our mission:  
-> We believe that every machine, whether in a household garage or a corporate lab, holds untapped potential. Our mission is to connect customers with these machines to meet customizable and scalable production needs. 
----
+Floating Gates produces Software for Automated Error Detection in Mechanical Design that works on Factory Networks.
 
-## 🚀 Features
+### What is the problem is solving?
 
-- **Automatic Feasibility Check**  
-  Validate if a design can be manufactured before committing resources.  
+Traditional design reviews miss roughly 20% of engineering flaws. These slips are deceptively expensive, leading to over-tolerancing, material waste, manufacturing rework, and field failures. The same problem, though more subtle and yet even more problematic, can be stated as the human failure to adhere to production standards in accordance with the "good & old" design guidelines.
 
-- **Instant Quotation**  
-  Generate cost estimates automatically with minimal human intervention.  
+### Problem objectification
 
-- **Shape Optimization & Suggestions**  
-  Improve product design with embedded optimization algorithms.  
+The problem translates translates into: 
 
-- **Simulation Suite**  
-  Virtual manufacturing workflows to analyze cost and performance.  
+- Piles of design files to be analysed, version after version
+- Slow, manual quoting and manufacturability verification
 
-- **Enterprise Gate (On-Premise)**  
-  Full support for enterprises requiring **data ownership**, spcific device configuration, local installations, and system integration.  
----
+### Theoretical solution to the problem
 
-## 🎯 Who Is It For?
+- Enforcing the design playbook on suppliers and customers as internal employee.
+- Using a cheap review method to spot errors.
+- Guiding the stakeholders towards the product, the factory can can reasonably produce.
+### What it does the software?
 
-- **Small & Medium Manufacturers** – with limited sales capacity and idle machines.  
-- **3D Printing Hobbyists** – who want faster and more professional quoting workflows.  
-- **Enterprises** – requiring scalable and compliant virtual manufacturing environments.  
+It perform CAD and GD&T autonomous revision revision to spot manufacturing issues ahead. Every cad files in the network, encounter a checkpoints by which is either green lit or highlighted for revision.
 
----
+A human in the loop is required once an issue is found.
+## Mission
+
+> The vision is to scale Autonomous Manufacturing 
+
+Why? - Machines make very few mistakes, but yet design produced by humans are filled with flaws
+
+This is where we try to patch, i.e. inserting an AUTONOMOUS revision mechanism in the loop. The ambition is to have this agent planted in every factory of the world to reduce at minimum human errors!
